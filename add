@@ -1,4 +1,6 @@
 a = 10
 b = 20
-sum = a + b 
+c = 30
+d = 40
+sum = a + b + c + d
 print("the sum is: "sum)
